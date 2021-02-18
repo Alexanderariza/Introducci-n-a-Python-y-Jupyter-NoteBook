@@ -22,9 +22,12 @@ Los ficheros producidos por esta aplicación, llamados jupyter notebooks o simpl
 
 La aplicación Jupyter Notebook consta en realidad de dos componentes:
 
-Kernel: es la parte del programa que se encarga de ejecutar el código. En principio el kernel que viene por defecto ejecuta código Python, aunque también se pueden instalar kernels para otros lenguajes.
-Dashboard: esta parte es la que nos muestra los notebooks, y se usa también para gestionar los kernels.
+### Kernel: 
+Que es la parte del programa que se encarga de ejecutar el código. En principio el kernel que viene por defecto ejecuta código Python, aunque también se pueden instalar kernels para otros lenguajes.
+### Dashboard: 
+Esta parte es la que nos muestra los Notebooks, y se usa también para gestionar los kernels.
 
-
+## Instalar Jupyter Notebook
+Para [instalar Jupyter Notebook](https://jupyter.org/install) antes necesitamos tener instaladas las versiones de Python 3.3 o superior, o Python 2.7 en nuestro ordenador. Cumplido este prerrequisito, la forma más fácil de instalar Jupyter Notebook en nuestro ordenador es mediante la distribución [Anaconda](https://www.anaconda.com/products/individual/) que además nos facilita el acceso a más de 1500 librerías usadas comúnmente como son NumPy, pandas, sci-kit learn o TensorFlow.
   
 [![License: Creative Commons Zero v1.0 Universal](https://lh3.googleusercontent.com/proxy/1Lf-mS_lKbHvQvL9Y1e7Oq9f2TVJfIcqzAVYPpWozaSvnfGDKto6_H1XpT7Jw83Z3FGZQ_cWlAP-Y7kw7YZ_WciVl7irUctxti5RuTW1x3-jB1P0N8FXhYWsGLiz02Q)](https://creativecommons.org/publicdomain/zero/1.0/)
