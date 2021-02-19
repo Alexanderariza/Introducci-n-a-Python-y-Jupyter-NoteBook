@@ -29,5 +29,11 @@ Esta parte es la que nos muestra los Notebooks, y se usa también para gestionar
 
 ## Instalar Jupyter Notebook
 Para [instalar Jupyter Notebook](https://jupyter.org/install) antes necesitamos tener instaladas las versiones de Python 3.3 o superior, o Python 2.7 en nuestro ordenador. Cumplido este prerrequisito, la forma más fácil de instalar Jupyter Notebook en nuestro ordenador es mediante la distribución [Anaconda](https://www.anaconda.com/products/individual/) que además nos facilita el acceso a más de 1500 librerías usadas comúnmente como son NumPy, pandas, sci-kit learn o TensorFlow.
+
+## ¿Como funciona?
+1. Puede [descargar](Introducción a Python y Jupyter NoteBook (1).ipynb) el cuaderno de Jupyter Notebook y utilizar los recursos de computación de su PC. 
+2. Otra opción alternativa, es el de [**Google Colab**]( https://colab.research.google.com). Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Para ello puede acceder a esta versión directamente haciendo clic en el icono de abajo.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-O17AVKvB3v-xu1AwfehQVit272NcH8I#scrollTo=Dy6dBj7KePyS)
   
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
